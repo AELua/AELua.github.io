@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <?php
 // Database connection variables
 $servername = "sql212.epizy.com";
